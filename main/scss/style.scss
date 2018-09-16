@@ -1,7 +1,10 @@
 $primary: rgb(44, 43, 42);
-
+$secondary: rgb(61, 193, 236);
 
 body{
     background: $primary;
     color: #fff;
+}
+.brand-name{
+    color: $secondary;
 }
